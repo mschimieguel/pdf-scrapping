@@ -3,8 +3,8 @@ Extracting text from PDF archives
 
 
 ### Requirements
-m PDF's archives first do you need to install the command-line program QPDF (available for Linux and Mac OSX).With QPDF is possible transform parts of the illegible RAW binary 
-into a legible text.
+ 
+ Install the command-line program QPDF (available for Linux and Mac OSX).With QPDF is possible transform parts of the illegible RAW binary into a legible text.
 
 
 ### Install QPDF On linux 
@@ -22,7 +22,7 @@ With the linux terminal open in the directory where is located yourarchive.pdf a
 
 `qpdf --qdf yourarchive.pdf legible-raw-output.pdf`
 
- the file legible-raw-output.pdf is the output of the QPDF.With just a simple text editor you can copy and change the contens of your PDF file.
+ The file legible-raw-output.pdf is the output of the QPDF.With just a simple text editor you can copy and change the contents of yours outputteds PDF's files.
  
 ### Scrapping text from PDF file
 
