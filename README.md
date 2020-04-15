@@ -4,7 +4,7 @@ Extracting text from PDF archives
 
 ### Requirements
  
- Install the command-line program QPDF (available for Linux and Mac OSX).With QPDF is possible transform parts of the illegible RAW binary into a legible text.
+ Install the command-line program QPDF (available for Linux and Mac OSX) with it is possible to transform parts of the illegible RAW binary of PDF file into a legibles texts.
 
 
 ### Install QPDF On linux 
